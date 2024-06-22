@@ -1,6 +1,6 @@
 # Hi there, I'm Soroush! 👋
 
-- 🌱 I’m currently studying **DevOps Engineering**
+- 🌱 I’m currently studying **DevOps**
 - 👨‍💻 All of my projects are available at **[here][github]** or **[linuxify.me][website]**
 - 📫 How to reach me **paintedman00@gmail.com**
 - ⚡ Fun fact **"In another universe, there's a version of me who is a barber!"** 💘
