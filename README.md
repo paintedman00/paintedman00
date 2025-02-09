@@ -24,6 +24,7 @@
 | Infrastructure as Code  | ![Terraform](https://img.shields.io/badge/Terraform%20-%23623CE4.svg?&style=for-the-badge&logo=terraform&logoColor=white)                                                                                                                                                                                                                                                                                                                             |
 | Device Management       | ![Jamf](https://img.shields.io/badge/Jamf-1E1E1E?style=for-the-badge&logo=jamf&logoColor=white) ![Intune](https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft-intune&logoColor=white)                                                                                                                                                                                                 |
 | Metrics & Analytics     | ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange) ![Zabbix](https://img.shields.io/badge/Zabbix-EE0000?style=for-the-badge&logo=zabbix&logoColor=white)                                                                                                                                                                                                 |
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2397541" style='border:none;'></iframe>
 
 
 ## 🚀 GitHub Stats
