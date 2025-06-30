@@ -5,7 +5,7 @@
 - 📫 How to reach me: **paintedman00@gmail.com**
 - ⚡ Fun fact: **"In another universe, there's a version of me who is a barber!"** 💘
 - 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2397541" style='border:none;'></iframe>
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/paintedman00.png)](https://tryhackme.com/p/paintedman00)
 
 ## 😎 Connect with me
 
