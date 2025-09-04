@@ -4,7 +4,7 @@
 - 👨‍💻 All of my projects are available **[here][github]** or **[linuxify.me][website]**
 - 📫 How to reach me: **paintedman00@gmail.com**
 - ⚡ Fun fact: **"In another universe, there's a version of me who is a barber!"** 💘
-- 
+  
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/paintedman00.png)](https://tryhackme.com/p/paintedman00)
 
 ## 😎 Connect with me
