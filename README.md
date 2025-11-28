@@ -6,7 +6,6 @@
 - ⚡ Fun fact: **"In another universe, there's a version of me who is a barber!"** 💘
   
 <img src="https://tryhackme-badges.s3.amazonaws.com/paintedman00.png" alt="Your Image Badge" />
-<img src="https://tryhackme-badges.s3.amazonaws.com/paintedman00.png" alt="Your Image Badge" />
 
 
 
