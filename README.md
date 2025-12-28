@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently diving deeper into **Cloud**
 - 👨‍💻 All of my projects are available **[here][github]** or **[linuxify.me][website]**
-- 📫 How to reach me: **paintedman00@gmail.com**
+- 📫 How to reach me: **paintedman00@proton.me**
 - ⚡ Fun fact: **"In another universe, there's a version of me who is a barber!"** 💘
 
 ![Profile views](https://komarev.com/ghpvc/?username=paintedman00&label=Profile%20views&color=0e75b6&style=flat)
