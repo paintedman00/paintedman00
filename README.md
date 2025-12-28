@@ -15,7 +15,8 @@
 
 [![Website](https://img.shields.io/website?label=linuxify.me&style=for-the-badge&url=https%3A%2F%2Flinuxify.me)][website]
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-![Profile views](https://komarev.com/ghpvc/?username=paintedman00&label=Profile%20views&color=0e75b6&style=flat)
+<img src="https://komarev.com/ghpvc/?username=paintedman00&label=Profile%20views&color=0e75b6&style=flat" height="28" />
+
 
 ## 👨‍💻 Technologies and Tools
 
