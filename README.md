@@ -4,7 +4,9 @@
 - 👨‍💻 All of my projects are available **[here][github]** or **[linuxify.me][website]**
 - 📫 How to reach me: **paintedman00@gmail.com**
 - ⚡ Fun fact: **"In another universe, there's a version of me who is a barber!"** 💘
-  
+
+![Profile views](https://komarev.com/ghpvc/?username=paintedman00&label=Profile%20views&color=0e75b6&style=flat)
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/paintedman00.png" alt="Your Image Badge" />
 
 
