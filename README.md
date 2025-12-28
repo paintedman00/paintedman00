@@ -38,12 +38,16 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<details>
-  <summary> :zap: Expand me</summary>
+## ⚙️GitHub Analytics
 
-![Soroush’s GitHub stats](https://github-readme-stats.vercel.app/api?username=paintedman00&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Soroush's GitHub stats")
+<p align="center">  
+<a href="https://github.com/paintedman00">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paintedman00&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paintedman00&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-</details>
+
 
 [website]: https://linuxify.me
 [linkedin]: https://linkedin.com/in/paintedman00
