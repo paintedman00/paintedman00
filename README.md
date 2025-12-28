@@ -5,7 +5,7 @@
 - 📫 How to reach me: **paintedman00@proton.me**
 - ⚡ Fun fact: **"In another universe, there's a version of me who is a barber!"** 💘
 
-![Profile views](https://komarev.com/ghpvc/?username=paintedman00&label=Profile%20views&color=0e75b6&style=flat)
+
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/paintedman00.png" alt="Your Image Badge" />
 
@@ -15,6 +15,7 @@
 
 [![Website](https://img.shields.io/website?label=linuxify.me&style=for-the-badge&url=https%3A%2F%2Flinuxify.me)][website]
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+![Profile views](https://komarev.com/ghpvc/?username=paintedman00&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 👨‍💻 Technologies and Tools
 
