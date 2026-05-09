@@ -13,7 +13,7 @@
 
 ## 😎 Connect with me
 
-[![Website](https://img.shields.io/website?label=linuxify.me&style=for-the-badge&url=https%3A%2F%2Flinuxify.me)][website]
+[![Website](https://img.shields.io/website?label=soroush.sh&style=for-the-badge&url=https%3A%2F%2Fsoroush.sh)][website]
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 ![Profile views](https://komarev.com/ghpvc/?username=paintedman00&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
@@ -35,8 +35,21 @@
 | Metrics & Analytics     | ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange) ![Zabbix](https://img.shields.io/badge/Zabbix-EE0000?style=for-the-badge&logo=zabbix&logoColor=white) ![PRTG](https://img.shields.io/badge/PRTG%20Network%20Monitor-0098DA?style=for-the-badge&logo=prtg&logoColor=white)                                                                                                                                     |
 
 ## 🚀 GitHub Stats
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/paintedman00/paintedman00/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/paintedman00/paintedman00/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/paintedman00/paintedman00/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ## ⚙️GitHub Analytics
 
@@ -48,6 +61,6 @@
 </p>
 
 
-[website]: https://linuxify.me
+[website]: https://soroush.sh
 [linkedin]: https://linkedin.com/in/paintedman00
 [github]: https://github.com/paintedman00
