@@ -10,6 +10,24 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/paintedman00.png" alt="Your Image Badge" />
 
 
+<a href="https://www.buymeacoffee.com/paintedman00" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
+</a>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/paintedman00/paintedman00/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/paintedman00/paintedman00/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/paintedman00/paintedman00/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ## 😎 Connect with me
 
@@ -59,28 +77,6 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paintedman00&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
-## buy Me a Coffee
-# paintedman00
-
-<a href="https://www.buymeacoffee.com/paintedman00" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
-</a>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/paintedman00/paintedman00/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/paintedman00/paintedman00/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/paintedman00/paintedman00/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 
 [website]: https://soroush.sh
