@@ -1,6 +1,6 @@
 # Hi there, I'm Soroush! 👋
 
-- 🌱 I’m currently diving deeper into **Cloud Security**
+- 🌱 I’m currently diving deeper into **Application Security**
 - 👨‍💻 All of my projects are available **[here][github]** or **[soroush.sh][website]**
 - 📫 How to reach me: **paintedman00@proton.me**
 - ⚡ Fun fact: **"In another universe, there's a version of me who is a barber!"** 💘
